@@ -1,0 +1,22 @@
+{
+  "name": "photoapp",
+  "version": "1.0.0",
+  "description": "photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megerim/PhotoApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megerim/PhotoApp/issues"
+  },
+  "homepage": "https://github.com/megerim/PhotoApp#readme",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
